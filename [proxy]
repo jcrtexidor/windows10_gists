@@ -1,0 +1,7 @@
+set HTTP_PROXY=http://127.0.0.1:50000
+set HTTPS_PROXY=http://127.0.0.1:50000
+
+set HTTP_PROXY=http://127.0.0.1:50000
+set HTTPS_PROXY=http://127.0.0.1:50000
+
+.\cntlm.exe -u jctexidor@UCI.CU -H
